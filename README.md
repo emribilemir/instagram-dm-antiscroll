@@ -3,7 +3,7 @@
 A Tampermonkey/Violentmonkey userscript that prevents Instagram Direct Messages from automatically scrolling to the bottom when replying to older messages.
 
 ## Installation
-- [Greasy Fork'tan Kur](https://greasyfork.org/tr/scripts/568659-instagram-dm-anti-scroll-reply-mode)
+- [Greasy Fork Download Link](https://greasyfork.org/tr/scripts/568659-instagram-dm-anti-scroll-reply-mode)
 - [GitHub Repository](https://github.com/emribilemir/instagram-dm-antiscroll/)
 
 ## Features
